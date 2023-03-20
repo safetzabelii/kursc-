@@ -1,0 +1,15 @@
+C:\Users\safet\OneDrive\Desktop\kursi\bin\Debug\net7.0\kursi.exe
+C:\Users\safet\OneDrive\Desktop\kursi\bin\Debug\net7.0\kursi.deps.json
+C:\Users\safet\OneDrive\Desktop\kursi\bin\Debug\net7.0\kursi.runtimeconfig.json
+C:\Users\safet\OneDrive\Desktop\kursi\bin\Debug\net7.0\kursi.dll
+C:\Users\safet\OneDrive\Desktop\kursi\bin\Debug\net7.0\kursi.pdb
+C:\Users\safet\OneDrive\Desktop\kursi\obj\Debug\net7.0\kursi.csproj.AssemblyReference.cache
+C:\Users\safet\OneDrive\Desktop\kursi\obj\Debug\net7.0\kursi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safet\OneDrive\Desktop\kursi\obj\Debug\net7.0\kursi.AssemblyInfoInputs.cache
+C:\Users\safet\OneDrive\Desktop\kursi\obj\Debug\net7.0\kursi.AssemblyInfo.cs
+C:\Users\safet\OneDrive\Desktop\kursi\obj\Debug\net7.0\kursi.csproj.CoreCompileInputs.cache
+C:\Users\safet\OneDrive\Desktop\kursi\obj\Debug\net7.0\kursi.dll
+C:\Users\safet\OneDrive\Desktop\kursi\obj\Debug\net7.0\refint\kursi.dll
+C:\Users\safet\OneDrive\Desktop\kursi\obj\Debug\net7.0\kursi.pdb
+C:\Users\safet\OneDrive\Desktop\kursi\obj\Debug\net7.0\kursi.genruntimeconfig.cache
+C:\Users\safet\OneDrive\Desktop\kursi\obj\Debug\net7.0\ref\kursi.dll
